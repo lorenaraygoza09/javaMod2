@@ -1,3 +1,5 @@
+package ejemplosClase;
+
 import java.util.concurrent.CompletableFuture;
 
 public class FuturoNoBloqueante {

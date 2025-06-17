@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TecnoloChicasMod2.iml" filepath="$PROJECT_DIR$/TecnoloChicasMod2.iml" />
       <module fileurl="file://$PROJECT_DIR$/sesion1/ejemplosRepo/ejemplosRepo.iml" filepath="$PROJECT_DIR$/sesion1/ejemplosRepo/ejemplosRepo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sesion4/primos/primos.iml" filepath="$PROJECT_DIR$/sesion4/primos/primos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesion4/src/primos/primos.iml" filepath="$PROJECT_DIR$/sesion4/src/primos/primos.iml" />
       <module fileurl="file://$PROJECT_DIR$/sesion1/retos/retos.iml" filepath="$PROJECT_DIR$/sesion1/retos/retos.iml" />
       <module fileurl="file://$PROJECT_DIR$/sesion1/sesion1.iml" filepath="$PROJECT_DIR$/sesion1/sesion1.iml" />
       <module fileurl="file://$PROJECT_DIR$/sesion2/sesion2.iml" filepath="$PROJECT_DIR$/sesion2/sesion2.iml" />
